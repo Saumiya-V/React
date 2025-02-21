@@ -1,0 +1,36 @@
+What is emmet?
+Emmet is a plugin that enables fast and efficient HTML,CSS and XML code through shorthand abbreviation.It expands short expression into full fledged code,significantly speeding up the development process.
+
+Difference between library and a framework
+Library:
+# library is a predefined set of code that performs specific functionality.
+# Developers can call the library function whenever they need and can have control over their application.
+# Example : React js (A javascript library to build UI component)
+
+Framework:
+# Framework is more structured collection of library that provides the complete system to build an application.
+# Framework controls the flow of application,developers must follow the predefined structure.
+# Example : Angular,Spring Boot.
+
+What is CDN ? Why do we use it ?
+# CDN stands for 'Content Delivery Network', is a netork of distributed servers that works together to deliver web content (HTML,CSS,javascript,video,image) more faster and efficiently to the users based on their locations.
+
+Uses:1.Faster loading speeding
+     2.Reduced Server load
+     3.Improve Availability
+     4.Better security
+
+Why is React known as 'React'?
+It is the raective nature of the react that allows the component to re-render dynamically based on state or prop changes,making UI to update fast and seamlessly.
+
+What is crossorigin in script tag?
+Crossorigin attribute used inside the script tag loads the javascript files from differnt crossorigin (cors request) specifying how browsers handle the crossorigin resourse sharing.
+values of crossorigin- 'anonymouus' & 'usecredentials'.
+
+What is difference between  react and reactdom?
+React:
+# It is the core library for building UI components which is used to create and manage the components.
+# It works both in browser and server.
+ReactDom:
+# It is used to render the react component to the actual browser dom.
+# It works only in the browser.
